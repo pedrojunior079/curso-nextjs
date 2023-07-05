@@ -16,3 +16,7 @@ Curso Next.js: Navegação entre paginas (componente Link) - #06
 como é possivel navegar entre as paginas no Next.js utilizando o 
 componente Link, que é nativo do Next.js e nos ajudara nesta tarefa.
 
+Curso Next.js: Componentes no Next - #07 
+vai aprender a criar componentes no Next.js
+A arquitetura orientada a componentes no React é fundamental, e podemos
+utilizar isso no Next também.
