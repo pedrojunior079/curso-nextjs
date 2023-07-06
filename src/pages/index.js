@@ -15,10 +15,15 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>
-          <h1 className={styles.title}>Olá mundo Next.js</h1>   
-      </div> 
       
+          <h1 className={styles.title}>Olá mundo Next.js</h1>
+          <Image 
+             src="/images/city.jpg" 
+             width={300}
+             height={300}
+             alt="Cidade a noite">
+          </Image>
+     
     </>
   )
 }
